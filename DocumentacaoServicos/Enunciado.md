@@ -33,5 +33,7 @@ Deve-se apresentar no mínimo seis serviços de cada tipo (GET, POST, PUT e DELE
 Os problemas devem seguir alguns dos padrões já vistos na atividade anterior. Lembre-se de colocar todos os códigos de estado possíveis para cada serviço, assim como as demais informações necessárias. 
 Os serviços a serem definidos são fictícios, criados por sua equipe a partir da interpretação do front-end e de seu conhecimento em serviços.
 
+Para fazer a documentação, utilizem a seguinte ferramenta:
+[Swagger Editor](https://editor.swagger.io/)
 
 ## Façam isso com o grupo! Discutam no grupo como proceder. Lembrem-se que estou participando dele!
