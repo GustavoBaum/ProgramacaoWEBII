@@ -16,8 +16,7 @@ aprendizagem baseada em problemas
 [API](https://youtu.be/tPbK3eOJLXQ)
 [REST](https://youtu.be/S7MduKwvVGk) 
 [Especificações](https://www.infoq.com/br/articles/rest-introduction/) 
-
-Sobre serviços e boas práticas - [Boas práticas](https://www.smarti.blog.br/api-rest-principios-boas-praticas-para-arquiteturas-restful/) 
+[Boas práticas](https://www.alura.com.br/artigos/rest-principios-e-boas-praticas) 
 
 ## Enunciado:
 
