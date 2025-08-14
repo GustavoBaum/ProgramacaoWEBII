@@ -1,0 +1,25 @@
+Serviços possíveis:
+
+Obs.: "postar" não significa que é um POST
+
+Aluno:
+Mensagem (enviar, editar, excluir, receber)
+Notificação - GET
+Postar atividade feita (funciona como resposta pra atividade postada pelo professor)
+Customização da página do AVA (altera apenas para o aluno conectado)
+
+
+Professor:
+Postar atividade avaliativa (local onde aluno pode postar resposta)
+Plano de ensino
+Material
+Mensagem (enviar, editar, excluir, receber)
+Postar coisa no calendário para os alunos
+Postar notas
+Postar avisos no curso
+Customização da página do AVA (altera apenas para o professor conectado)
+Customização do próprio perfil no AVA
+
+
+AVA (talvez):
+Funções de acessibilidade
