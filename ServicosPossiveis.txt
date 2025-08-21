@@ -16,18 +16,19 @@ Professor:
 /////Notificação do prof - GET (msg, atividade feita)//////
 /////Postar atividade avaliativa (local onde aluno pode postar resposta) - enviar POST, editar PUT, excluir DELETE/////
 /////Receber Atividade Feita  - GET/////
+Material
+Postar avisos no curso
+Plano de ensino - POST(?)
 
 Customização da página do AVA (altera apenas para o professor conectado) - PUT
 Customização do próprio perfil no AVA - POST PUT
-Plano de ensino - POST(?)
 Postar coisa no calendário para os alunos - POST
 Postar notas
-Postar avisos no curso
-Material
 
 
 AVA (talvez):
 
 Funções de acessibilidade
+
 
 
