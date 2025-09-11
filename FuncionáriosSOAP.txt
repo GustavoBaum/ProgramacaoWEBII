@@ -1,0 +1,25 @@
+Funcionários:
+ 
+nome
+cpf
+data nascimento
+email
+carga horário
+sistema de ponto
+pagamento
+turno
+linguagem de programação
+setor
+meta 
+cargo
+
+Empresa:
+
+contas/despesas da empresa
+setores
+funcionários
+metas
+setores
+contatos
+
+
