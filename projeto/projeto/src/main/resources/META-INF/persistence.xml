@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="https://jakarta.ee/xml/ns/persistence" version="3.0">
+
+    <persistence-unit name="ExemploJPA" transaction-type="RESOURCE_LOCAL">
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+
+        <class>com.exemplo.jpa.modelo.Familia</class>
+        <class>com.exemplo.jpa.modelo.Genero</class>
+
+        <properties>
+            <property name="jakarta.persistence.jdbc.driver" value="org.h2.Driver"/>
+            <property name="jakarta.persistence.jdbc.id_familia" value="jdbc:h2:mem:exemplo-jpa;DB_CLOSE_DELAY=-1"/>
+            <property name="jakarta.persistence.jdbc.nm_familia" value="sa"/>
+            <property name="jakarta.persistence.jdbc.id_genero" value=""/>
+
+            <property name="hibernate.hbm2ddl.auto" value="create-drop"/>
+
+            <property name="hibernate.show_sql" value="true"/>
+            <property name="hibernate.format_sql" value="true"/>
+        </properties>
+
+        <properties>
+            <property name="jakarta.persistence.jdbc.driver" value="org.h2.Driver"/>
+            <property name="jakarta.persistence.jdbc.id_genero" value="jdbc:h2:mem:exemplo-jpa;DB_CLOSE_DELAY=-1"/>
+            <property name="jakarta.persistence.jdbc.nm_genero" value="sa"/>
+            <property name="jakarta.persistence.jdbc.nm_description" value=""/>
+            <property name="jakarta.persistence.jdbc.id_familia" value=""/>
+
+            <property name="hibernate.hbm2ddl.auto" value="create-drop"/>
+
+            <property name="hibernate.show_sql" value="true"/>
+            <property name="hibernate.format_sql" value="true"/>
+        </properties>
+    </persistence-unit>
+
+</persistence>
